@@ -1,0 +1,141 @@
+ body{
+   background-color: rgb(218, 216, 216);
+ }
+ .mainDiv {
+  padding-left: 300px;
+  padding-top: 150px;
+}
+
+
+table {
+  border: 1px solid;
+  border-collapse: collapse;
+  width: 45%;
+}
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+  padding: 10%;
+}
+tr {
+  height: 100px;
+} 
+
+
+#boxDiv{
+  color: black;
+
+}
+#Boxes{
+  /* display: inline-block; */
+  height: 55px;
+  width: 55px;
+  margin: 10px;
+  background-color: white;
+  /* border: 3px black solid; */
+}
+
+
+#box1 {
+  position: center;
+  width: 30px;
+  height: 15px;
+  border: 1px solid rgb(10, 10, 77);
+  background-color: rgb(10, 10, 77);
+  padding: 12px;
+  color: beige;
+  text-align: center;
+  cursor: pointer;
+}
+#box2 {
+  position: center;
+  width: 30px;
+  height: 15px;
+  border: 1px solid rgb(12, 54, 29);
+  background-color: rgb(12, 54, 29);
+  padding: 12px;
+  color: beige;
+  text-align: center;
+  cursor: pointer;
+}
+#box3 {
+  position: center;
+  width: 30px;
+  height: 15px;
+  border: 1px solid rgb(70, 11, 67);
+  background-color: rgb(70, 11, 67);
+  padding: 12px;
+  color: beige;
+  text-align: center;
+  cursor: pointer;
+}
+#box4 {
+  position: center;
+  width: 30px;
+  height: 15px;
+  border: 1px solid rgb(165, 34, 34);
+  background-color: rgb(165, 34, 34);
+  padding: 12px;
+  color: beige;
+  text-align: center;
+  cursor: pointer;
+}
+#box5 {
+  position: center;
+  width: 30px;
+  height: 15px;
+  border: 1px solid rgb(75, 77, 77);
+  background-color: rgb(75, 77, 77);
+  padding: 12px;
+  color: beige;
+  text-align: center;
+  cursor: pointer;
+}
+#box6 {
+  position: center;
+  width: 30px;
+  height: 15px;
+  border: 1px solid rgb(100, 99, 21);
+  background-color: rgb(100, 99, 21);
+  padding: 12px;
+  color: beige;
+  text-align: center;
+  cursor: pointer;
+}
+#box7 {
+  position: center;
+  width: 30px;
+  height: 15px;
+  border: 1px solid rgb(41, 156, 37);
+  background-color: rgb(41, 156, 37);
+  padding: 12px;
+  color: beige;
+  text-align: center;
+  cursor: pointer;
+}
+#box8 {
+  position: center;
+  width: 30px;
+  height: 15px;
+  border: 1px solid rgb(67, 36, 151);
+  background-color: rgb(67, 36, 151);
+  padding: 12px;
+  color: beige;
+  text-align: center;
+  cursor: pointer;
+}
+#box9 {
+  position: center;
+  width: 30px;
+  height: 15px;
+  border: 1px solid rgba(102, 65, 10, 0.849);
+  background-color: rgba(102, 65, 10, 0.849);
+  padding: 12px;
+  color: beige;
+  text-align: center;
+  cursor: pointer;
+}
+
+
+
+
